@@ -1,5 +1,5 @@
 # Daran Arbeite ich aktuell
-Diese Webseiten sind noch nicht fertig. Das heisst sie sehen noch nicht so gut aus.
+An diesen Webseiten arbeite ich noch aktuell.
 
 Enthaltene Dateien:
 
