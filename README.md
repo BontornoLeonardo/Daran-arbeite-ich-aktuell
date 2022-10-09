@@ -12,4 +12,4 @@ Enthaltene Dateien:
 <b>Personal Webseite: </b><p>http://bontoleo.bplaced.net/Personal-Webseite/Home.html</p>
 <b>Rosmarin-Webseite: </b><p>http://bontoleo.bplaced.net/Rosmarin-Zweig-Webseite/</p>
 <b>Hilfswebseite:     </b><p>http://bontoleo.bplaced.net/hilfsmittel/</p>
-<b>Info: </b><p>Eine Kleine Info zur "Hilfswebseite". Das Kopieren von Werten funktioniert aktuell nur lokal. Ich arbeite an diesem Fehler.</p>
+<p><b>Info: </b>Eine Kleine Info zur "Hilfswebseite". Das Kopieren von Werten funktioniert aktuell nur lokal. Ich arbeite an diesem Fehler.</p>
