@@ -1,8 +1,0 @@
-// Website head
---------------------------------------
-
-Colors                                      HTML elements shortcuts
-  r = ----------------
-  g = ----------------                      select(element) element attrubuts: (__________________________)
-  b = ----------------
-      copyValues
